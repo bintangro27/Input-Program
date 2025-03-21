@@ -1,0 +1,1 @@
+Program Java sederhana untuk menerima input dari pengguna menggunakan Scanner. Meminta nama, umur, dan tinggi badan, lalu menampilkan kembali data yang dimasukkan. Cocok untuk pemula yang ingin belajar dasar input di Java.
